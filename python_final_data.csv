@@ -1,0 +1,132 @@
+ID,name,Type,Date,Time,Latitude,Longitude,Depth,Magnitude,age,slipsense,azimuth
+16044,Denali fault (West Muldrow-Alsek section),Earthquake,11/3/2002,10:12:41 PM,63.5170000,-147.4440000,4.900,7.90,"<15,000",SS,282
+2378,Fairweather fault,Earthquake,7/30/1972,9:45:17 PM,56.7240000,-135.8530000,25.000,7.60,<150,SS,315
+10978,"Johnson Valley fault, southern Johnson Valley section (Johnson Valley fault)",Earthquake,6/28/1992,11:57:34 AM,34.2000000,-116.4370000,-0.097,7.30,<150,RL,345
+10870,North Fork Road thrust system (Petrolia thrust),Earthquake,4/25/1992,6:06:05 PM,40.3353333,-124.2286667,9.856,7.20,"<1,600,000",T,297
+14548,Lavic Lake fault zone,Earthquake,10/16/1999,9:46:44 AM,34.6033333,-116.2650000,13.730,7.10,<150,RL,327
+3716,"Hilina fault system, Paliuli section",Earthquake,11/29/1975,2:47:40 PM,19.3340000,-155.0240000,5.000,7.10,"<15,000",N,360
+12078,Mendocino fault zone (Mendocino fault),Earthquake,9/1/1994,3:15:48 PM,40.4055000,-126.3028333,4.972,7.00,"<130,000",RL,278
+11050,Gulf of Alaska shear zone,Earthquake,8/7/1992,6:19:20 PM,57.5890000,-142.8460000,13.600,6.90,<150,SS,350
+9665,Zayante-Vergeles fault zone (Zayante fault),Earthquake,10/18/1989,12:04:15 AM,37.0361667,-121.8798333,17.214,6.90,"<130,000",RL,303
+16829,Fairweather fault,Earthquake,6/28/2004,9:49:47 AM,54.8000000,-134.2500000,20.000,6.80,<150,SS,315
+8038,Albatross Bank fault zone,Earthquake,6/19/1986,9:09:09 AM,56.3310000,-152.9140000,16.700,6.80,"<1,600,000",T,248
+210,Alaska-Aleutian Megathrust,Earthquake,7/29/1965,8:29:24 AM,51.0500000,-171.2890000,21.400,6.80,<150,T,272
+16025,Denali fault (West Muldrow-Alsek section),Earthquake,10/23/2002,11:27:19 AM,63.5140000,-147.9120000,4.200,6.70,"<15,000",SS,282
+8767,"San Jacinto fault zone, Superstition Hills section (Elmore Ranch fault)",Earthquake,11/24/1987,1:15:57 PM,33.0150000,-115.8520000,11.181,6.60,<150,RL,38
+4776,Albatross Bank fault zone,Earthquake,4/12/1978,3:42:03 AM,56.4230000,-152.6910000,14.000,6.60,"<1,600,000",T,248
+1848,unnamed fault,Earthquake,2/9/1971,2:00:42 PM,34.4160000,-118.3700000,8.950,6.60,"<1,600,000",,326
+891,"San Jacinto fault zone, Borrego Mountain section",Earthquake,4/9/1968,2:29:00 AM,33.1798333,-116.1030000,10.000,6.60,"<15,000",RL,307
+10873,Cascadia megathrust,Earthquake,4/26/1992,11:18:26 AM,40.3828333,-124.5550000,21.713,6.57,"<130,000",T,335
+9535,"Hilina fault system, Pulama Pali section",Earthquake,6/26/1989,3:27:04 AM,19.3620000,-155.0830000,9.400,6.50,"<15,000",N,277
+8766,"San Jacinto fault zone, Superstition Hills section (Elmore Ranch fault)",Earthquake,11/24/1987,1:15:56 PM,33.0100000,-115.8500000,1.000,6.50,<150,RL,38
+188,Coal Glacier fault (Chugach-St. Elias fold and thrust belt),Earthquake,6/27/1965,11:08:59 AM,60.2810000,-141.4180000,15.000,6.50,"<750,000",T,274
+5532,Long Valley fault zone,Earthquake,5/25/1980,7:44:51 PM,37.6956667,-118.7500000,6.000,6.47,"<15,000",,329
+9534,"Hilina fault system, Pulama Pali section",Earthquake,6/26/1989,3:27:03 AM,19.3600000,-155.0800000,9.000,6.40,"<15,000",N,277
+8097,unnamed faults in Volcanic Tablelands,Earthquake,7/21/1986,2:42:26 PM,37.5380000,-118.4428333,8.804,6.40,"<15,000",N,351
+5303,Imperial fault,Earthquake,10/15/1979,11:16:54 PM,32.6673333,-115.3591667,15.000,6.40,<150,RL,319
+8098,unnamed faults in Volcanic Tablelands,Earthquake,7/21/1986,2:42:27 PM,37.5380000,-118.4410000,4.060,6.35,"<15,000",N,351
+5538,Long Valley Caldera ring fault,Earthquake,5/27/1980,2:50:56 PM,37.6243333,-118.7551667,6.000,6.31,"<1,600,000",N,90
+10982,unnamed fault,Earthquake,6/28/1992,3:05:31 PM,34.2030000,-116.8270000,3.634,6.30,"<1,600,000",,281
+3188,Albatross Bank fault zone anticline,Earthquake,8/1/1974,5:55:38 AM,56.6700000,-152.1050000,33.000,6.30,"<1,600,000",T,248
+18877,Unnamed fault west of Wells Peak,Earthquake,2/21/2008,2:16:03 PM,41.1444000,-114.8721000,7.900,6.20,"<1,600,000",N,356
+14365,Albatross Bank fault zone,Earthquake,5/7/1999,2:13:52 PM,56.4160000,-152.9390000,20.000,6.20,"<1,600,000",T,248
+8908,Gulf of Alaska shear zone,Earthquake,3/6/1988,11:14:38 PM,57.4990000,-142.8030000,10.000,6.20,<150,SS,350
+8762,"San Jacinto fault zone, Superstition Hills section (Elmore Ranch fault)",Earthquake,11/24/1987,1:54:15 AM,33.0900000,-115.7920000,10.853,6.20,<150,RL,38
+7004,"Calaveras fault zone, central Calaveras section (Calaveras fault)",Earthquake,4/24/1984,9:15:19 PM,37.3096667,-121.6788333,8.193,6.20,"<15,000",RL,323
+3573,Alaska-Aleutian Megathrust,Earthquake,8/2/1975,10:18:18 AM,53.3870000,-161.4850000,33.000,6.20,<150,T,272
+22320,Fairweather fault,Earthquake,7/25/2014,10:54:50 AM,58.3062000,-136.9601000,10.000,6.10,<150,SS,315
+11435,unnamed faults in Eureka Valley,Earthquake,5/17/1993,11:20:50 PM,37.1650000,-117.7740000,3.599,6.10,"<1,600,000",,12
+10861,Eureka Peak fault,Earthquake,4/23/1992,4:50:23 AM,33.9600000,-116.3170000,11.629,6.10,"<15,000",RL,161
+7296,unnamed fault,Earthquake,11/23/1984,6:08:25 PM,37.4596667,-118.6071667,8.096,6.10,"<1,600,000",,299
+7005,Arroyo Aguague fault,Earthquake,4/24/1984,9:15:19 PM,37.3200000,-121.7000000,8.000,6.10,"<1,600,000",R,318
+5530,unnamed fault,Earthquake,5/25/1980,4:33:44 PM,37.5903333,-118.8310000,6.806,6.10,"<15,000",N,324
+5533,Hilton Creek fault zone (Hilton Creek fault),Earthquake,5/25/1980,7:44:51 PM,37.5538333,-118.8070000,11.856,6.10,"<15,000",N,316
+3415,West Pocatello Valley faults,Earthquake,3/28/1975,2:31:06 AM,42.0610000,-112.5480000,5.000,6.10,"<1,600,000",N,151
+1553,Pamplona fault zone (BT2),Earthquake,4/11/1970,4:05:45 AM,59.6100000,-142.5940000,15.000,6.10,"<15,000",R,245
+275,Transition fault,Earthquake,9/30/1965,11:47:42 PM,59.2800000,-144.0600000,20.000,6.10,"<15,000",SS,286
+8761,"San Jacinto fault zone, Superstition Hills section (Elmore Ranch fault)",Earthquake,11/24/1987,1:54:14 AM,33.0800000,-115.7800000,5.000,6.00,<150,RL,38
+8621,unnamed fault SE Cape Mendocino,Earthquake,7/31/1987,11:56:58 PM,40.4200000,-124.4100000,16.000,6.00,"<130,000",,296
+8076,"San Andreas fault zone, San Bernardino Mountains section (Mission Creek fault)",Earthquake,7/8/1986,9:20:45 AM,33.9990000,-116.6080000,9.468,6.00,"<130,000",RL,283
+8075,"San Andreas fault zone, San Bernardino Mountains section (Mission Creek fault)",Earthquake,7/8/1986,9:20:44 AM,34.0000000,-116.6100000,10.000,6.00,"<130,000",RL,283
+5980,unnamed fault,Earthquake,9/30/1981,11:53:27 AM,37.6080000,-118.8880000,4.623,6.00,"<15,000",N,324
+5531,Hilton Creek fault zone (Hilton Creek fault),Earthquake,5/25/1980,4:49:27 PM,37.6768333,-118.8996667,6.686,6.00,<150,N,333
+1423,unnamed fault,Earthquake,11/5/1969,5:54:12 PM,34.5890000,-121.4280000,10.000,6.00,"<1,600,000",,19
+16946,"San Andreas fault zone, Parkfield section",Earthquake,9/28/2004,5:15:24 PM,35.8181667,-120.3660000,8.136,5.97,<150,RL,316
+14459,Unnamed faults of Pahute Mesa,Earthquake,8/1/1999,4:06:21 PM,37.5300000,-116.9680000,6.037,5.94,"<1,600,000",N,299
+12095,East Carson Valley fault zone,Earthquake,9/12/1994,12:23:43 PM,38.8200000,-119.6500000,14.000,5.90,"<1,600,000",N,5
+11620,"Klamath graben fault system, South Klamath Lake section",Earthquake,9/21/1993,5:45:34 AM,42.3500000,-122.0200000,5.000,5.90,"<130,000",N,140
+8782,Gulf of Alaska shear zone,Earthquake,11/30/1987,7:48:26 PM,58.2390000,-142.7420000,10.000,5.90,<150,SS,350
+8693,East Montebello fault,Earthquake,10/1/1987,2:42:20 PM,34.0610000,-118.0790000,8.881,5.90,"<15,000",RL,326
+8093,Fish Slough fault,Earthquake,7/20/1986,2:29:45 PM,37.5666667,-118.4381667,5.044,5.90,"<15,000",N,356
+6633,Coal Glacier fault (Chugach-St. Elias fold and thrust belt),Earthquake,6/28/1983,3:25:17 AM,60.2190000,-141.2870000,18.500,5.90,"<750,000",T,274
+5979,unnamed fault,Earthquake,9/30/1981,11:53:26 AM,37.5838333,-118.8645000,3.126,5.90,"<15,000",N,324
+3519,Wolf Lake fault and nearby faults,Earthquake,6/30/1975,6:54:13 PM,44.7450000,-110.6050000,7.000,5.90,"<15,000",N,70
+523,Dog Valley fault zone (Dog Valley fault),Earthquake,9/12/1966,4:41:04 PM,39.3850000,-120.2520000,10.000,5.90,"<1,600,000",LL,42
+11757,Mission Hills fault zone (Mission Hills fault),Earthquake,1/17/1994,12:31:58 PM,34.2750000,-118.4930000,5.317,5.89,"<130,000",R,298
+8094,Fish Slough fault,Earthquake,7/20/1986,2:29:46 PM,37.5670000,-118.4360000,4.010,5.84,"<15,000",N,356
+7295,unnamed faults in Volcanic Tablelands,Earthquake,11/23/1984,6:08:00 PM,37.4600000,-118.5900000,9.000,5.82,"<15,000",N,351
+21528,Ivan River anticline (Cook Inlet folds),Earthquake,12/4/2012,1:42:48 AM,61.2370000,-150.7600000,62.200,5.80,"<1,600,000",R,215
+14348,Ka'oiki-Honu'apo fault system,Earthquake,4/17/1999,12:56:25 AM,19.2480000,-155.4890000,10.900,5.80,"<15,000",,33
+11758,"Simi-Santa Rosa fault zone, Simi-Santa Rosa section (Simi fault)",Earthquake,1/17/1994,11:33:30 PM,34.3200000,-118.7000000,0.000,5.80,"<130,000",LL,77
+8112,Fish Slough fault,Earthquake,7/31/1986,7:22:40 AM,37.4731667,-118.3686667,5.754,5.80,"<15,000",N,356
+5425,"Greenville fault zone, Marsh Creek-Greenville section (Greenville fault)",Earthquake,1/24/1980,7:00:10 PM,37.8520000,-121.8150000,11.000,5.80,"<15,000",RL,318
+5305,Brawley seismic zone,Earthquake,10/16/1979,6:58:43 AM,32.9986667,-115.5575000,14.190,5.80,<150,RL,155
+4909,"Red Mountain fault zone (Red Mountain fault, south branch)",Earthquake,8/13/1978,10:54:53 PM,34.3500000,-119.7000000,10.000,5.80,"<130,000",R,274
+3715,"Hilina fault system, Pulama Pali section",Earthquake,11/29/1975,1:35:41 PM,19.3600000,-155.0530000,8.000,5.80,"<15,000",N,277
+1849,unnamed fault,Earthquake,2/9/1971,2:01:12 PM,34.4160000,-118.3700000,6.000,5.80,"<1,600,000",,326
+1850,unnamed fault,Earthquake,2/9/1971,2:02:46 PM,34.4160000,-118.3700000,6.000,5.80,"<1,600,000",,326
+420,Kodiak shelf fault zone,Earthquake,4/22/1966,11:27:21 PM,57.2710000,-152.4830000,20.900,5.80,"<1,600,000",T,246
+10979,Eureka Peak fault,Earthquake,6/28/1992,12:00:45 PM,34.1310000,-116.4080000,-1.100,5.77,<150,RL,334
+12666,Little Lake fault zone,Earthquake,9/20/1995,11:27:36 PM,35.7610000,-117.6380000,4.688,5.75,"<15,000",,337
+22519,Mendocino fault zone,Earthquake,1/28/2015,9:08:54 PM,40.3178333,-124.6066667,17.170,5.73,"<130,000",RL,290
+20123,"Elsinore fault zone, Laguna Salada section",Earthquake,6/15/2010,4:26:58 AM,32.7050000,-115.9113333,8.756,5.72,"<130,000",N,1
+21765,Almanor fault zone (East Shore fault),Earthquake,5/24/2013,3:47:08 AM,40.1918000,-121.0595000,9.700,5.70,"<1,600,000",N,13
+14769,Mendocino fault zone (Mendocino fault),Earthquake,3/16/2000,3:19:56 PM,40.3886667,-125.2385000,4.803,5.70,"<130,000",RL,278
+14347,Ka'oiki-Honu'apo fault system,Earthquake,4/17/1999,12:56:25 AM,19.2500000,-155.4900000,10.900,5.70,"<15,000",,33
+13590,"Hilina fault system, Pulama Pali section",Earthquake,6/30/1997,3:47:39 PM,19.3580000,-155.0680000,7.500,5.70,"<15,000",N,277
+12096,East Carson Valley fault zone,Earthquake,9/12/1994,12:23:43 PM,38.8190000,-119.6520000,11.629,5.70,"<1,600,000",N,5
+10980,Pinto Mountain fault zone (Pinto Mountain fault),Earthquake,6/28/1992,12:01:16 PM,34.1200000,-116.3230000,5.706,5.70,"<15,000",LL,80
+9862,"Sierra Madre fault zone, Cucamonga section (Cucamonga fault)",Earthquake,2/28/1990,11:43:36 PM,34.1400000,-117.6900000,10.000,5.70,"<15,000",T,82
+8099,unnamed faults in Volcanic Tablelands,Earthquake,7/21/1986,2:51:09 PM,37.4931667,-118.4538333,8.482,5.70,"<15,000",N,351
+6704,Mendocino fault zone (Mendocino fault),Earthquake,8/24/1983,1:36:00 PM,40.3732000,-124.9227000,11.930,5.70,"<15,000",RL,275
+6095,Ka'oiki-Honu'apo fault system,Earthquake,1/21/1982,9:52:41 PM,19.2200000,-155.6000000,10.000,5.70,"<15,000",,33
+5534,unnamed fault,Earthquake,5/25/1980,8:35:48 PM,37.6186667,-118.8348333,4.833,5.70,"<15,000",N,324
+5281,"Hilina fault system, Pulama Pali section",Earthquake,9/22/1979,7:59:38 AM,19.3470000,-155.0720000,9.000,5.70,"<15,000",N,277
+252,Kodiak shelf fault zone,Earthquake,9/8/1965,3:26:22 AM,57.5130000,-152.2630000,25.000,5.70,"<1,600,000",T,246
+10985,Eureka Peak fault,Earthquake,6/29/1992,2:08:38 PM,34.1050000,-116.4030000,9.649,5.69,<150,RL,336
+10991,"Garlock fault zone, western Garlock section (Garlock fault, South Branch)",Earthquake,7/11/1992,6:14:16 PM,35.2100000,-118.0670000,9.564,5.67,"<15,000",LL,64
+6844,Mendocino fault zone (Mendocino fault),Earthquake,12/20/1983,10:41:02 AM,40.4080000,-125.6465000,8.126,5.66,"<130,000",RL,278
+18707,"Calaveras fault zone, central Calaveras section (Calaveras fault)",Earthquake,10/31/2007,3:04:54 AM,37.4300000,-121.7700000,10.000,5.60,"<15,000",RL,323
+14550,Santa Ana fault zone (Santa Ana fault),Earthquake,10/16/1999,9:59:38 AM,34.2400000,-117.0400000,6.000,5.60,"<1,600,000",,300
+13589,"Hilina fault system, Pulama Pali section",Earthquake,6/30/1997,3:47:39 PM,19.3600000,-155.0700000,8.000,5.60,"<15,000",N,277
+13397,Mendocino fault zone,Earthquake,1/22/1997,7:17:17 AM,40.2736667,-124.3791667,23.007,5.60,"<130,000",RL,290
+11771,"Hilina fault system, Kukalau'ula Pali section",Earthquake,2/1/1994,10:01:55 AM,19.2440000,-155.2880000,32.800,5.60,<150,N,44
+11086,"Washington fault zone, northern section",Earthquake,9/2/1992,10:26:21 AM,37.0900000,-113.4720000,13.739,5.60,"<130,000",N,343
+11085,"Washington fault zone, northern section",Earthquake,9/2/1992,10:26:20 AM,37.0900000,-113.4700000,15.000,5.60,"<130,000",N,343
+10526,"San Gabriel fault zone, San Gabriel River section (San Gabriel fault)",Earthquake,6/28/1991,2:43:54 PM,34.2600000,-118.0000000,11.000,5.60,"<1,600,000",RL,276
+8620,unnamed fault SE Cape Mendocino,Earthquake,7/31/1987,11:56:58 PM,40.4156667,-124.3826667,16.895,5.60,"<130,000",,296
+8100,"White Mountains fault zone, Hammil section",Earthquake,7/21/1986,10:07:16 PM,37.6213333,-118.3425000,-0.076,5.60,"<1,600,000",N,357
+7301,Wheeler Crest fault,Earthquake,11/26/1984,4:21:41 PM,37.4473333,-118.6476667,5.955,5.60,"<130,000",,1
+6096,Ka'oiki-Honu'apo fault system,Earthquake,1/21/1982,10:29:14 PM,19.2180000,-155.5520000,13.700,5.60,"<15,000",,33
+5304,Brawley seismic zone,Earthquake,10/16/1979,6:58:43 AM,33.0200000,-115.5800000,5.000,5.60,<150,RL,155
+2182,Alaska-Aleutian Megathrust,Earthquake,12/26/1971,1:19:01 PM,50.6430000,-174.9890000,15.000,5.60,<150,T,272
+1885,Coal Glacier fault (Chugach-St. Elias fold and thrust belt),Earthquake,3/26/1971,5:35:22 PM,60.2000000,-141.0590000,25.000,5.60,"<750,000",T,274
+532,Castle Mountain fault (Susitna section anticline),Earthquake,10/7/1966,8:55:57 PM,61.5800000,-150.1260000,55.000,5.60,"<15,000",R,265
+11759,"Sierra Madre fault zone, Santa Susana section (Santa Susana fault)",Earthquake,1/17/1994,11:33:31 PM,34.3260000,-118.6980000,9.083,5.58,"<130,000",R,287
+1533,Unnamed faults of Pahute Mesa,Nuclear Explosion,3/26/1970,7:00:01 PM,37.3005000,-116.5341667,1.200,5.54,"<1,600,000",N,299
+10981,Santa Ana fault zone (Santa Ana fault),Earthquake,6/28/1992,2:43:22 PM,34.1620000,-116.8520000,9.615,5.53,"<1,600,000",,81
+5632,Unnamed faults near Teels Marsh,Earthquake,9/7/1980,4:36:38 AM,38.1383333,-118.3913333,6.000,5.52,"<1,600,000",LL,37
+9863,"Sierra Madre fault zone, Cucamonga section (Cucamonga fault)",Earthquake,2/28/1990,11:43:37 PM,34.1440000,-117.6970000,3.292,5.51,"<15,000",T,82
+21565,Fairweather fault,Earthquake,1/14/2013,2:55:52 PM,55.1630000,-134.5480000,4.000,5.50,<150,SS,315
+12665,Little Lake fault zone,Earthquake,9/20/1995,11:27:36 PM,35.7600000,-117.6400000,5.000,5.50,"<15,000",,136
+7850,Quien Sabe fault zone (Bradley fault),Earthquake,1/26/1986,7:20:51 PM,36.8043333,-121.2850000,8.153,5.50,"<1,600,000",RL,151
+7822,Castle Mountain fault (Susitna section),Earthquake,12/30/1985,12:41:03 PM,61.5410000,-150.3400000,62.100,5.50,"<15,000",SS,258
+6780,"Lone Pine fault, northern section",Earthquake,10/29/1983,11:39:06 PM,44.2810000,-114.1150000,10.000,5.50,"<1,600,000",N,134
+6719,"Hilina fault system, Poliokeawe Pali section",Earthquake,9/9/1983,4:30:55 PM,19.3320000,-155.1220000,9.000,5.50,<150,N,262
+6705,Mendocino fault zone (Mendocino fault),Earthquake,8/24/1983,1:36:29 PM,40.3720000,-124.9245000,11.188,5.50,"<15,000",RL,275
+5280,"Hilina fault system, Pulama Pali section",Earthquake,9/22/1979,7:59:37 AM,19.3500000,-155.0700000,9.000,5.50,"<15,000",N,277
+5106,"Johnson Valley fault, southern Johnson Valley section (Kickapoo fault)",Earthquake,3/15/1979,9:07:16 PM,34.3200000,-116.4500000,10.000,5.50,<150,RL,183
+4698,Aleutian fault,Earthquake,3/2/1978,2:34:59 PM,55.0730000,164.6320000,33.000,5.50,<150,SS,294
+4183,"East Gallatin-Reese Creek fault system, East Gallatin section",Earthquake,12/8/1976,2:40:59 PM,44.7600000,-110.7930000,5.000,5.50,"<750,000",N,6
+3315,Ka'oiki seismic zone,Earthquake,11/30/1974,1:54:23 PM,19.4170000,-155.4000000,7.000,5.50,<150,SS,9
+2623,Kodiak shelf fault zone,Earthquake,2/20/1973,7:40:35 AM,58.3070000,-149.8100000,12.000,5.50,"<1,600,000",T,246
